@@ -1,0 +1,123 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "webAppSiteName": {
+      "value": "contosomonetizationwebapp"
+    },
+    "webApiSiteName": {
+      "value": "contosomonetizationwebapi"
+    },
+    "botHandleCSName": {
+      "value": "contosomonetizationbotcs"
+    },
+    "botHandleJSName": {
+      "value": "contosomonetizationbotjs"
+    },
+    "outlookAddInWebSiteName": {
+      "value": "contosomonetizationoutlookaddin"
+    },
+    "wordAddInWebSiteName": {
+      "value": "contosomonetizationwordaddin"
+    },
+    "excelAddInWebSiteName": {
+      "value": "contosomonetizationexceladdin"
+    },
+    "powerpointAddInWebSiteName": {
+      "value": "contosomonetizationpowerpointaddin"
+    },
+    "providerHostedAddInWebSiteName": {
+      "value": "contosomonetizationproviderhostedaddin"
+    },
+    "resourceMockWebSiteName": {
+      "value": "contosomonetizationappsource"
+    },
+    "domainName": {
+      "value": "cand3.onmicrosoft.com"
+    },
+    "directoryId": {
+      "value": "0534985e-032e-430a-9b95-60f5277b96f4"
+    },
+    "sqlAdministratorLogin": {
+      "value": "Monetizationadmin"
+    },
+    "sqlAdministratorLoginPassword": {
+      "value": "pass@Word2021"
+    },
+    "sqlMockDatabaseName": {
+      "value": "AppSourceMockWebAppDB"
+    },
+    "sqlSampleDatabaseName": {
+      "value": "MonetizationSampleDB"
+    },
+    "webAppClientId": {
+      "value": ""
+    },
+    "webAppClientSecret": {
+      "value": ""
+    },
+    "webApiClientId": {
+      "value": ""
+    },
+    "webApiClientSecret": {
+      "value": ""
+    },
+    "webApiIdentifierUri": {
+      "value": ""
+    },
+    "outlookAddInClientId": {
+      "value": ""
+    },
+    "outlookAddInClientSecret": {
+      "value": ""
+    },
+    "wordAddInClientId": {
+      "value": ""
+    },
+    "wordAddInClientSecret": {
+      "value": ""
+    },
+    "excelAddInClientId": {
+      "value": ""
+    },
+    "excelAddInClientSecret": {
+      "value": ""
+    },
+    "powerpointAddInClientId": {
+      "value": ""
+    },
+    "powerpointAddInClientSecret": {
+      "value": ""
+    },
+    "providerHostedAddInClientId": {
+      "value": ""
+    },
+    "providerHostedAddInClientSecret": {
+      "value": ""
+    },
+    "teamsTabAppClientId": {
+      "value": ""
+    },
+    "teamsTabAppClientSecret": {
+      "value": ""
+    },
+    "teamsBotCSharpClientId": {
+      "value": ""
+    },
+    "teamsBotCSharpClientSecret": {
+      "value": ""
+    },
+    "teamsBotJavaScriptClientId": {
+      "value": ""
+    },
+    "teamsBotJavaScriptClientSecretd": {
+      "value": ""
+    },
+    "sourceMockClientId": {
+      "value": ""
+    },
+    "tenantId": {
+      "value": "organizations"
+    }
+  }
+}
